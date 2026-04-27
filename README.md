@@ -1,4 +1,11 @@
 ## 👨‍🎓 Thông tin cá nhân
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quocnguyen1249&repo=JSP-Servlet-ani-review&theme=radical&title_color=ff69b4&icon_color=00ffff&border_color=ff4500&bg_color=151515)](https://github.com/quocnguyen1249/JSP-Servlet-ani-review)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quocnguyen1249&repo=JSP-Servlet-ani-review&theme=radical&title_color=ff69b4&icon_color=00ffff&border_color=ff4500&bg_color=151515)](https://github.com/quocnguyen1249/JSP-Servlet-ani-review)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocnguyen1249&repo=JSP-Servlet-ani-review&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocnguyen1249&repo=JSP-Servlet-QL-may-tinh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocnguyen1249&repo=myproject&theme=gruvbox" />
+</p>
 
 ![Student](https://img.shields.io/badge/Sinh%20viên-KTPM-blue?style=for-the-badge)
 ![University](https://img.shields.io/badge/Đại%20học-Công%20nghiệp%20TP.HCM-green?style=for-the-badge)
